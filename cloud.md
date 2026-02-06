@@ -25,3 +25,15 @@ Role-based access control and the principle of least privilege are used in imple
 
 Data protection is used during transmission and at rest. All communications between users, application servers, and databases are carried out with the help of Transport Layer Security (TLS), and stored data is encrypted by cloud-managed mechanisms (Damaraju, 2024). 
 
+## Cloud Pricing Evidence
+
+The following pricing exports were generated using official cloud provider calculators and are included in this repository:
+
+- **AWS pricing export:**  
+  [aws_vm_pricing.csv](cloud-pricing/aws_vm_pricing.csv)
+
+- **Azure pricing export:**  
+  [ExportedEstimate.xlsx](cloud-pricing/ExportedEstimate.xlsx)
+
+- **Five-year cost comparison:**  
+  [cloud_cost_5_years.xlsx](cloud-pricing/cloud_cost_5_years.xlsx)
