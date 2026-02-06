@@ -30,10 +30,10 @@ Data protection is used during transmission and at rest. All communications betw
 The following pricing exports were generated using official cloud provider calculators and are included in this repository:
 
 - **AWS pricing export:**  
-  [aws_vm_pricing.csv](cloud-pricing/aws_vm_pricing.csv)
+  [aws_vm_pricing.csv](secure_scms/COIT20246/cloud-pricing/aws_vm_pricing.csv)
 
 - **Azure pricing export:**  
-  [ExportedEstimate.xlsx](cloud-pricing/ExportedEstimate.xlsx)
+  [ExportedEstimate.xlsx](secure_scms/COIT20246/cloud-pricing/ExportedEstimate.xlsx)
 
 - **Five-year cost comparison:**  
-  [cloud_cost_5_years.xlsx](cloud-pricing/cloud_cost_5_years.xlsx)
+  [cloud_cost_5_years.xlsx](secure_scms/COIT20246/cloud-pricing/cloud_cost_5_years.xlsx)
