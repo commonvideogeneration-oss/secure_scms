@@ -1,4 +1,4 @@
-## Cybersecurity Controls and Mitigation Strategies
+### Cybersecurity Controls and Mitigation Strategies
 
 To counter the cybersecurity threats highlighted in Section 4.1, a set of technical, administrative, and operational security measures is recommended for the booking system of Truelec. These controls are consistent with the network architecture design, and they are aimed at minimising the risk and consequences of widely occurring enterprise threats.
 
